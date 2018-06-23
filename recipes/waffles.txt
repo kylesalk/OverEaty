@@ -1,0 +1,16 @@
+title: Waffles
+
+time: 10 min. prep / 20 min. cooking
+
+ingredient: 2 cups flour
+ingredient: 4 tsp baking powder
+ingredient: 1/2 tsp salt
+ingredient: 1/4 cup sugar
+ingredient: 2 eggs
+ingredient: 1/2 cup vegetable oil
+ingredient: 2 cups milk
+ingredient: 1 tsp vanilla
+
+stage: Preparation
+step: Mix dry ingredients together
+step: Add the rest of the ingredients and mix until smooth

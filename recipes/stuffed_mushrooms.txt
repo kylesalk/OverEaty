@@ -1,0 +1,28 @@
+title: Crab Stuffed Mushrooms
+
+time: 15 min. prep / 30 min. bake
+
+ingredient: 12 ounces flaked crab
+ingredient: 4 tbsp finely chopped onions
+ingredient: 1 tsp dry mustard
+ingredient: 3/4 cup parmesan cheese
+ingredient: 2 tsp parsley
+ingredient: 1/8 tsp ground red pepper
+ingredient: 1/8 tsp black pepper
+ingredient: 1 egg
+ingredient: 1 tbsp mayonnaise
+ingredient: 1/8 tsp garlic salt
+ingredient: 1/4 cup butter
+ingredient: 1/2 cup dry breadcrumbs
+
+stage: Preparation
+step: Mix all ingredients except garlic, butter, and breadcrumbs
+step: Stuff the mixed ingredients into the mushrooms
+step: Melt the butter
+step: Add garlic to the melted butter
+step: Pour the butter/garlic mix over the mushrooms
+step: Sprinkle the breadcrumbs across the top of the mushrooms
+
+stage: Bake
+step: Add olive oil to mushrooms in a pan
+step: 415F for 30 min.

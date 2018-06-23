@@ -1,0 +1,23 @@
+title: Biscuits
+
+time: 1.5 hours prep / 15 min. bake
+
+ingredient: 1 tbsp yeast
+ingredient: 1/4 cup warm water
+ingredient: 2 1/2 cups flour
+ingredient: 1 tsp baking powder
+ingredient: 1/2 tsp baking soda
+ingredient: 1 tsp salt
+ingredient: 2 tbsp sugar
+ingredient: 1/2 cup shortening
+ingredient: 1 cup buttermilk or yogurt/milk
+
+stage: Preparation
+step: Mix dry ingredients
+step: Stir in yeast and buttermilk
+step: Cover in bowl and let sit 60 min.
+step: Knead lightly (4-6 times)
+step: Place on greased pan for 10-15 min.
+
+stage: Bake
+step: 400F for 10-12 min.

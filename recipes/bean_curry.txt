@@ -1,0 +1,22 @@
+title: Bean Curry
+
+time: 10 min. prep / 30 min. cooking
+
+ingredient: 2 cans pinto beans
+ingredient: 1 can other bean (garbonzo recommended)
+ingredient: 1 can coconut cream
+ingredient: 1 diced onion
+ingredient: 2 large, diced tomatoes (1 can diced)
+ingredient: 1 bell pepper
+ingredient: 1 clove garlic
+ingredient: 1 small can mushrooms
+ingredient: 2 tbsp curry powder
+ingredient: 1 tbsp cumin
+ingredient: 2 tbsp red curry paste
+ingredient: 4 tbsp brown sugar
+
+stage: Cook
+step: Cook onion, pepper, and garlic until soft
+step: Add the remaining ingredients
+step: Simmer for 15-20 min.
+step: Add spice to taste

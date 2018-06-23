@@ -1,0 +1,14 @@
+title: Syrup
+
+time: 15 min. prep and cooking
+
+ingredient: 1/2 cup brown sugar
+ingredient: 1/2 cup sugar
+ingredient: 1/2 cup water
+ingredient: 1/4 tsp vanilla
+ingredient: 1 pinch salt
+
+stage: Cooking
+step: Heat pan with low-medium heat
+step: Add ingredients to the pan and mix
+step: Simmer to desired consistency

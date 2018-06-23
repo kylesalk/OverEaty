@@ -1,0 +1,19 @@
+title: Pork Loin
+
+time: 10 min. prep / 50 min. cook
+
+ingredient: 1 tsp salt
+ingredient: 1 tsp pepper
+ingredient: 1 tsp italian seasoning
+ingredient: 1 tsp rosemary
+ingredient: 1 tsp garlic powder
+ingredient: 1 tsp ground coriander
+ingredient: 2 tbsp olive oil
+
+stage: Preperation
+step: Mix all dry ingredients
+step: Apply mix as a rub to the pork loin
+step: Sear all sides of the pork loin
+
+stage: Cook
+step: 400F for about 50 min.

@@ -1,0 +1,15 @@
+title: Kyle's Frosting
+
+time: 
+
+ingredient: 1 1/2 cups butter (3 sticks), softened
+ingredient: 1 cup unsweetened cocoa
+ingredient: 5 cups powdered sugar
+ingredient: 2 tsp vanilla extract
+ingredient: 1/2 cup milk or cream
+
+stage: Preparation
+step: Melt butter into the milk, then add vanilla
+step: Add cocoa to large mixing bowl
+step: Add 1 cup sugar and 1 tbsp milk into cocoa while mixing
+step: Repeat previous steps until all ingredients have been mixed thoroughly
